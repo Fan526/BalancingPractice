@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: dca84ff25c3c1d94ba519f8c12c40cdd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: psdSource-Human-Body_0
+    21300002: psdSource-Human-Body_1
+    21300004: psdSource-Human-Body_2
+    21300006: psdSource-Human-Body_3
+    21300008: psdSource-Human-Body_4
+    21300010: psdSource-Human-Body_5
+    21300012: psdSource-Human-Body_6
+    21300014: psdSource-Human-Body_7
+    21300016: psdSource-Human-Body_8
+    21300018: psdSource-Human-Body_9
+    21300020: psdSource-Human-Body_10
+    21300022: psdSource-Human-Body_11
+    21300024: psdSource-Human-Body_12
+    21300026: psdSource-Human-Body_13
+    21300028: psdSource-Human-Body_14
+    21300030: psdSource-Human-Body_15
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: psdSource-Human-Body_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 388
+        width: 79
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.04790093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fceef7c7abbd4841929b68e399fc6d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psdSource-Human-Body_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 463
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93b28f50ca477b4a818d91186d10db7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psdSource-Human-Body_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 463
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fc93c1de480c547882a1a1feac6239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psdSource-Human-Body_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 448
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf9ea910c7588e488884d6fbf05d8db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psdSource-Human-Body_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 430
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd76e3ab2908824c967eea94bb009a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psdSource-Human-Body_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 448
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca3e25dd14d5494d8d5cc13e968f8f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psdSource-Human-Body_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 225
+        width: 82
+        height: 202
+      alignment: 9
+      pivot: {x: 0.49100327, y: 0.25895977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22ad0bafd327b947a4fa1a24aacf34e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psdSource-Human-Body_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 418
+        width: 26
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f94a64e3a6b1b48994322278dff352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psdSource-Human-Body_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 208
+        width: 27
+        height: 169
+      alignment: 9
+      pivot: {x: 0.527323, y: 0.9801793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ac9b418fe48e84e83ff0aed38f55d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psdSource-Human-Body_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 34
+        width: 28
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5263476, y: 0.9771385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cec3dcce5123fe4a9584eadec749212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psdSource-Human-Body_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 34
+        width: 28
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5263481, y: 0.9918198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a2adfe9aabe754a9f6744f8f4f1f72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psdSource-Human-Body_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 206
+        width: 27
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5273234, y: 0.9773547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34621154cf1a9514cb106e0a1dd38eff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psdSource-Human-Body_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 150
+        width: 29
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5508774, y: 0.95167166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62d95fc22e11c54d9ef83ace766d237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psdSource-Human-Body_13
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 150
+        width: 29
+        height: 49
+      alignment: 9
+      pivot: {x: 0.47456044, y: 0.96672744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588fd2f8642631048b6b88b53750e64d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psdSource-Human-Body_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 37
+        width: 61
+        height: 27
+      alignment: 9
+      pivot: {x: 0.8507237, y: 0.90984994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dd2c5e52921e44daf0b4dde320880e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psdSource-Human-Body_15
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 37
+        width: 61
+        height: 27
+      alignment: 9
+      pivot: {x: 0.17346391, y: 0.8825267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d85b9f367e9444c825ffbde93ecb5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dff79caeccd6f7041967b1307ab377ee
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
